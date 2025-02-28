@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import 'bootstrap/dist/css/bootstrap.min.css'; // Keep this line for Bootstrap
+>>>>>>> 544a8ce (Initial commit)
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
